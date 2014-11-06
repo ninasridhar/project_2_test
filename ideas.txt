@@ -10,5 +10,12 @@ filters in r magick
 
 responsive design?
 
+<<<<<<< HEAD
 
 buöüolns
+=======
+idea - ife
+>>>>>>> 9e996f3d2dd5a57df63810a8cf4ee2ba5ec581f6
+
+
+öabksvödsv
