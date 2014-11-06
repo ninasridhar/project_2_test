@@ -1,0 +1,26 @@
+users
+  -username
+  -email
+  -location
+  -photos
+  -albums
+  -lastupdate
+  -membersince
+
+photos
+  -name 
+  -description
+  -tag
+  -comments
+  -votes
+  -album
+
+albums
+  -name
+  -description
+  -photos
+
+tag 
+  -photos
+
+comment

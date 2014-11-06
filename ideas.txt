@@ -3,13 +3,11 @@ facebook, twitter, tumblr integration
 normal sign up ... facebook login (choice?) 
 
 photos in the area
+
 google maps integration
 
 filters in r magick
 
 responsive design?
 
-idea - ife
-
-nina branch
-
+subsribing to others users feed
